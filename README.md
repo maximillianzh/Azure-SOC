@@ -1,4 +1,5 @@
 # Azure-SOC
+Created a mini honeynet in Azure, integrated logs into Log Analytics, and utilized Microsoft Sentinel to generate attack maps, alerts, and incidents while measuring and enhancing security metrics.
 
 # Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
