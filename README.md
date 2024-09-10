@@ -36,8 +36,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 
-![image](https://github.com/user-attachments/assets/57cceb41-8a65-4117-8dc3-251478244a9e)
-![image](https://github.com/user-attachments/assets/ca02a835-9246-41ea-98b7-8aaf68a3d547)
+![image](https://github.com/user-attachments/assets/57cceb41-8a65-4117-8dc3-251478244a9e)<br>
+![image](https://github.com/user-attachments/assets/ca02a835-9246-41ea-98b7-8aaf68a3d547)<br>
 ![image](https://github.com/user-attachments/assets/131651c1-c8b3-47ed-bb88-f970f6997204)<br>
 
 ## Metrics Before Hardening / Security Controls
